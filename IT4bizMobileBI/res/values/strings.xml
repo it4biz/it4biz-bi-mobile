@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="save_pw">Salvar Senha</string>
+    <string name="app_name">IT4biz BI Mobile - Android</string>
+    <color name="all_white">#FFFFFF</color>
+    <color name="all_black">#000000</color>
+</resources>

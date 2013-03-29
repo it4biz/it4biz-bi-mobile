@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+<ListView android:layout_width="wrap_content"
+			android:id="@+id/navigation" android:layout_height="fill_parent" android:layout_gravity="fill_vertical" xmlns:android="http://schemas.android.com/apk/res/android" android:isScrollContainer="true" android:scrollbars="horizontal|vertical" android:background="@color/all_white">
+			</ListView>
